@@ -4,9 +4,6 @@
 
 I'm a dynamic and collaborative professional with a relentless dedication to continuous improvement and skills sharpening. I possess a diverse range of technical expertise.💻
 
-<h2> 🚀 My Skills: </h2>
-
-
 ```typescript
 const aboutMe = {
   "name": "Diego",
@@ -17,20 +14,21 @@ const aboutMe = {
 }
 ```
 
-- ✅ I possess a diverse range of technical expertise, mastering programming languages such as:
+<h2> 🚀 Tech Skills... </h2>
+
+- ✅ I possess a diverse range of technical expertise, mastering programming languages and frameworks such as:
   - 💻 AdvPL and TL++, which is a proprietary programming language based on xBase.
   - 💻 Fluig, which is a productivity and collaboration platform
+  - 🌐 Angular: A development platform, built on TypeScript
+
+<h2> 🚧 In Progress... </h2>
+
 - 🧠 During this journey I have been studying differents frameworks, programing languages and technologies such as:
   - 📱 Flutter: An open source framework by Google for building, natively compiled, multi-platform applications from a single codebase
   - 💻 Dart: A client-optimized language for fast apps on any platform
-  - 🌐 Angular: A development platform, built on TypeScript
+
 - 🤯 In order to improve my code quality and organization, i have also been studying: 
   - 📚 Test-Driven Development (TDD) 
   - 📚 Clean Code 
   - 📚 Clean Architecture 
   - 📚 Domain-driven design (DDD)
-
-
-
-
-
